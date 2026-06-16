@@ -1,4 +1,4 @@
-baseURL = 'https://stocknote.github.io/'
+baseURL = 'https://Stocknote.github.io/'
 languageCode = 'en-us'
 title = 'Stocknote'
 theme = 'stocknote-theme'

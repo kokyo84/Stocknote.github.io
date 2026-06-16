@@ -1,19 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>주식기초 on Stocknote</title>
-    <link>http://localhost:1313/tags/%EC%A3%BC%EC%8B%9D%EA%B8%B0%EC%B4%88/</link>
-    <description>Recent content in 주식기초 on Stocknote</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 12:30:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%EC%A3%BC%EC%8B%9D%EA%B8%B0%EC%B4%88/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>배당락일이란?</title>
-      <link>http://localhost:1313/posts/dividend-ex-date/</link>
-      <pubDate>Tue, 16 Jun 2026 12:30:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/dividend-ex-date/</guid>
-      <description>&lt;p&gt;주식을 처음 시작할 때 자주 듣는 단어 중 하나가 바로 &lt;strong&gt;배당락일&lt;/strong&gt;입니다. 이 글에서는 배당락일이 무엇인지, 왜 중요한지, 그리고 주주에게 어떤 영향을 주는지를 쉽게 설명합니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;배당락일이란&#34;&gt;배당락일이란?&lt;/h2&gt;&#xA;&lt;p&gt;배당락일은 회사가 주주에게 배당금을 주는 기준 날짜인 &lt;strong&gt;배당기준일&lt;/strong&gt; 다음 날을 말합니다.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;배당기준일 이전까지 주식을 가지고 있어야 배당금을 받을 수 있습니다.&lt;/li&gt;&#xA;&lt;li&gt;기준일이 지나면 주식은 배당을 받을 권리가 없어지기 때문에, 그 다음 날을 배당락일이라고 부릅니다.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;쉽게 말해, &lt;strong&gt;배당을 받을 권리를 &amp;ldquo;확정&amp;quot;하는 날 다음 날&lt;/strong&gt;이 배당락일입니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;예를-들어-보면&#34;&gt;예를 들어 보면&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;회사가 6월 1일을 배당기준일로 정했습니다.&lt;/li&gt;&#xA;&lt;li&gt;6월 1일에 주식을 가지고 있는 사람은 배당금을 받을 수 있습니다.&lt;/li&gt;&#xA;&lt;li&gt;6월 2일은 그 권리가 사라진 날이니까, 배당락일입니다.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;즉, 6월 1일 이전에 주식을 사야 배당금을 받을 수 있고, 6월 2일 이후에 산 주식에는 배당권리가 없습니다.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>주식기초 on Stocknote</title><link>https://Stocknote.github.io/tags/%EC%A3%BC%EC%8B%9D%EA%B8%B0%EC%B4%88/</link><description>Recent content in 주식기초 on Stocknote</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 16 Jun 2026 12:30:00 +0900</lastBuildDate><atom:link href="https://Stocknote.github.io/tags/%EC%A3%BC%EC%8B%9D%EA%B8%B0%EC%B4%88/index.xml" rel="self" type="application/rss+xml"/><item><title>배당락일이란?</title><link>https://Stocknote.github.io/posts/dividend-ex-date/</link><pubDate>Tue, 16 Jun 2026 12:30:00 +0900</pubDate><guid>https://Stocknote.github.io/posts/dividend-ex-date/</guid><description>&lt;p&gt;주식을 처음 시작할 때 자주 듣는 단어 중 하나가 바로 &lt;strong&gt;배당락일&lt;/strong&gt;입니다. 이 글에서는 배당락일이 무엇인지, 왜 중요한지, 그리고 주주에게 어떤 영향을 주는지를 쉽게 설명합니다.&lt;/p&gt;
+&lt;h2 id="배당락일이란"&gt;배당락일이란?&lt;/h2&gt;
+&lt;p&gt;배당락일은 회사가 주주에게 배당금을 주는 기준 날짜인 &lt;strong&gt;배당기준일&lt;/strong&gt; 다음 날을 말합니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;배당기준일 이전까지 주식을 가지고 있어야 배당금을 받을 수 있습니다.&lt;/li&gt;
+&lt;li&gt;기준일이 지나면 주식은 배당을 받을 권리가 없어지기 때문에, 그 다음 날을 배당락일이라고 부릅니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;쉽게 말해, &lt;strong&gt;배당을 받을 권리를 &amp;ldquo;확정&amp;quot;하는 날 다음 날&lt;/strong&gt;이 배당락일입니다.&lt;/p&gt;
+&lt;h2 id="예를-들어-보면"&gt;예를 들어 보면&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;회사가 6월 1일을 배당기준일로 정했습니다.&lt;/li&gt;
+&lt;li&gt;6월 1일에 주식을 가지고 있는 사람은 배당금을 받을 수 있습니다.&lt;/li&gt;
+&lt;li&gt;6월 2일은 그 권리가 사라진 날이니까, 배당락일입니다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;즉, 6월 1일 이전에 주식을 사야 배당금을 받을 수 있고, 6월 2일 이후에 산 주식에는 배당권리가 없습니다.&lt;/p&gt;</description></item></channel></rss>

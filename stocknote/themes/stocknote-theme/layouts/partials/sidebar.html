@@ -1,0 +1,12 @@
+<div class="sidebar-content">
+  <h3>Posts</h3>
+  <ul class="post-list">
+    {{ $posts := where site.RegularPages "Type" "posts" }}
+    {{ range $posts.ByDate.Reverse }}
+      <li class="post-list-item">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        <div class="post-date">{{ .Date.Format "2006-01-02" }}</div>
+      </li>
+    {{ end }}
+  </ul>
+</div>
